@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Dmytro Ivanytskyi 👋
 
-I'm Dmytro Ivanytskyi, a **Java Developer** with a passion for building scalable, high-performance backend systems and microservices, and a student at **Brigham Young University-Idaho** interested in computer science and web development. Welcome to my GitHub profile!
+I'm a **Java Developer** with a passion for building scalable, high-performance backend systems and microservices, and a student at **Brigham Young University-Idaho** interested in computer science and web development. Welcome to my GitHub profile!
 
 ## 
 - 🔭 I’m currently building a high-load application using Spring Boot.
