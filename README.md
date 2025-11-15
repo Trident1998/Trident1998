@@ -1,43 +1,39 @@
 # Hi there, I'm [Your Name] 👋
 
-I'm a **Java Developer** with a passion for building scalable, high-performance backend systems and microservices. Welcome to my GitHub profile!
+I'm Dmytro Ivanytskyi, a **Java Developer** with a passion for building scalable, high-performance backend systems and microservices, and a student at **Brigham Young University-Idaho** interested in computer science and web development. Welcome to my GitHub profile!
 
 ## 
-- 🔭 I’m currently building a [e.g., a high-throughput event-driven system using Spring Boot and Kafka].
-- 🌱 I’m currently deepening my knowledge in [e.g., cloud-native patterns and Kubernetes].
+- 🔭 I’m currently building a high-load application using Spring Boot.
+- 🌱 I’m currently deepening my knowledge in patterns of programming and Node.js.
 - 💬 Ask me about **Java, Spring Framework, distributed systems, or database optimization**.
 
 ---
 
 ## 🛠️ Technologies and Tools
 
-I'm proficient in a wide range of technologies for modern backend development:
-
 * **Languages:**
     * Java (Core, EE)
     * SQL
-    * (Optional: Python, TypeScript, etc.)
+    * Python (Familiar)
+    * JavaScript (Familiar)
 
 * **Frameworks & Runtimes:**
-    * Spring Boot, Spring Cloud, Spring Data (JPA/Hibernate)
-    * Node.js (Optional)
+    * Spring Boot, Spring Cloud, Spring Data
+    * Node.js *(Familiar / Learning)*
 
 * **Databases:**
     * PostgreSQL
     * MySQL
-    * MongoDB
     * Redis
 
 * **DevOps & Cloud:**
-    * Docker & Kubernetes
-    * AWS (or Azure/GCP)
-    * CI/CD (Jenkins, GitHub Actions)
+    * Docker
     * Git & GitHub
 
 * **Tools & Principles:**
     * Maven / Gradle
     * Microservices Architecture
-    * REST APIs & gRPC
+    * REST APIs
     * JUnit 5 & Mockito
 
 ---
